@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: one.xubraz.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-07 14:28-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: zarb <zarb13@free.fr>\n"
+"Language-Team: zarbux <webmaster@xubraz.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: /home/onexubra/application/modules/site/controllers/welcome.php:11
+#: /home/onexubra/application/modules/site/controllers/welcome.php:40
+msgid "Welcome to our Site"
+msgstr "Bienvenue sur notre Site"
+
+#: /home/onexubra/application/modules/site/controllers/welcome.php:12
+msgid "Register it's free"
+msgstr "Enregistrez vous c'est gratuit"
+
+#: /home/onexubra/application/modules/site/controllers/welcome.php:41
+msgid "Register it's free!"
+msgstr "Enregistrez vous c'est gratuit!"
+
+#: /home/onexubra/application/modules/site/views/signup.php:84
+#: /home/onexubra/application/modules/site/views/words.php:43
+#: /home/onexubra/application/views/login.php:8
+msgid "Email"
+msgstr "Email"
+
+#: /home/onexubra/application/modules/site/views/signup.php:91
+#: /home/onexubra/application/modules/site/views/words.php:41
+#: /home/onexubra/application/views/login.php:13
+msgid "Password"
+msgstr "Mot de passe"
+
+#: /home/onexubra/application/modules/site/views/signup.php:98
+msgid "Password Confirmation"
+msgstr "Confiramtion de mot de passe"
+
+#: /home/onexubra/application/modules/site/views/signup.php:105
+#: /home/onexubra/application/modules/site/views/words.php:37
+msgid "Sign Up"
+msgstr "Enregistrez vous"
+
+#: /home/onexubra/application/modules/site/views/about.php:6
+msgid "Back home page"
+msgstr "Retour page d'accueil"
+
+#: /home/onexubra/application/modules/site/views/about.php:6
+msgid "New content to translate"
+msgstr "Nouveau contenu à traduire"
+
+#: /home/onexubra/application/modules/site/views/words.php:2
+#: /home/onexubra/application/modules/site/views/words.php:156
+#: /home/onexubra/application/views/templates/sidebar.php:5
+msgid "Select Language"
+msgstr "Selectionez la langue"
+
+#: /home/onexubra/application/modules/site/views/words.php:4
+#: /home/onexubra/application/modules/site/views/words.php:157
+#: /home/onexubra/application/views/template.php:37
+#: /home/onexubra/application/views/templates/sidebar.php:11
+msgid "English"
+msgstr "Anglais"
+
+#: /home/onexubra/application/modules/site/views/words.php:5
+#: /home/onexubra/application/modules/site/views/words.php:158
+#: /home/onexubra/application/views/template.php:38
+#: /home/onexubra/application/views/templates/sidebar.php:12
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: /home/onexubra/application/modules/site/views/words.php:6
+#: /home/onexubra/application/modules/site/views/words.php:159
+#: /home/onexubra/application/views/template.php:39
+#: /home/onexubra/application/views/templates/sidebar.php:13
+msgid "French"
+msgstr "Français"
+
+#: /home/onexubra/application/modules/site/views/words.php:8
+#: /home/onexubra/application/modules/site/views/words.php:79
+#: /home/onexubra/application/views/templates/sidebar.php:23
+msgid "Submit"
+msgstr "Envoyer"
+
+#: /home/onexubra/application/modules/site/views/words.php:12
+msgid "Name"
+msgstr "Nom"
+
+#: /home/onexubra/application/modules/site/views/words.php:13
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: /home/onexubra/application/modules/site/views/words.php:14
+msgid "First Name"
+msgstr "Prénom"
+
+#: /home/onexubra/application/modules/site/views/words.php:15
+msgid "Last Name"
+msgstr "Nom"
+
+#: /home/onexubra/application/modules/site/views/words.php:16
+msgid "Company"
+msgstr "Société"
+
+#: /home/onexubra/application/modules/site/views/words.php:17
+msgid "Business Name"
+msgstr "Nom de l'entreprise"
+
+#: /home/onexubra/application/modules/site/views/words.php:18
+msgid "City"
+msgstr "Ville"
+
+#: /home/onexubra/application/modules/site/views/words.php:19
+msgid "Country"
+msgstr "Pays"
+
+#: /home/onexubra/application/modules/site/views/words.php:20
+msgid "State"
+msgstr "Département"
+
+#: /home/onexubra/application/modules/site/views/words.php:21
+msgid "Address"
+msgstr "Adresse"
+
+#: /home/onexubra/application/modules/site/views/words.php:22
+msgid "Zip Code"
+msgstr "Code Postal"
+
+#: /home/onexubra/application/modules/site/views/words.php:23
+msgid "Phone"
+msgstr "Téléphone"
+
+#: /home/onexubra/application/modules/site/views/words.php:24
+msgid "Phone Number"
+msgstr "Numéro de Téléphone"
+
+#: /home/onexubra/application/modules/site/views/words.php:25
+msgid "Home Phone"
+msgstr "Téléphone Domicile"
+
+#: /home/onexubra/application/modules/site/views/words.php:26
+msgid "Work Phone"
+msgstr "Téléphone Travail"
+
+#: /home/onexubra/application/modules/site/views/words.php:27
+msgid "Cell Phone"
+msgstr "Téléphone Mobile"
+
+#: /home/onexubra/application/modules/site/views/words.php:28
+msgid "Date of Birth"
+msgstr "Date de Naissance"
+
+#: /home/onexubra/application/modules/site/views/words.php:29
+msgid "Fax"
+msgstr "Fax"
+
+#: /home/onexubra/application/modules/site/views/words.php:30
+msgid "Fax Number"
+msgstr "Numéro de Fax"
+
+#: /home/onexubra/application/modules/site/views/words.php:31
+msgid "Register"
+msgstr "Enrregistrer"
+
+#: /home/onexubra/application/modules/site/views/words.php:32
+#: /home/onexubra/application/views/login.php:17
+msgid "Login"
+msgstr "Connexion"
+
+#: /home/onexubra/application/modules/site/views/words.php:33
+msgid "Please Login"
+msgstr "S'il vous plaît Connectez vous"
+
+#: /home/onexubra/application/modules/site/views/words.php:34
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: /home/onexubra/application/modules/site/views/words.php:35
+msgid "Please Logout"
+msgstr "S'il vous plaît Déconnectez vous"
+
+#: /home/onexubra/application/modules/site/views/words.php:36
+msgid "Remeber Me"
+msgstr "Se Souvenir de Moi"
+
+#: /home/onexubra/application/modules/site/views/words.php:38
+msgid "Sign Me Up"
+msgstr "Inscrivez-moi"
+
+#: /home/onexubra/application/modules/site/views/words.php:39
+msgid "Sign In"
+msgstr "Connexion"
+
+#: /home/onexubra/application/modules/site/views/words.php:40
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié?"
+
+#: /home/onexubra/application/modules/site/views/words.php:42
+msgid "Retype Password"
+msgstr "Retapez le Mot de Passe"
+
+#: /home/onexubra/application/modules/site/views/words.php:44
+msgid "Email Address"
+msgstr "Adresse Mail"
+
+#: /home/onexubra/application/modules/site/views/words.php:45
+msgid "Continue"
+msgstr "Continuer"
+
+#: /home/onexubra/application/modules/site/views/words.php:46
+msgid "Home"
+msgstr "Accueil"
+
+#: /home/onexubra/application/modules/site/views/words.php:47
+msgid "About"
+msgstr "A Propos"
+
+#: /home/onexubra/application/modules/site/views/words.php:48
+msgid "About Us"
+msgstr "A Propos de Nous"
+
+#: /home/onexubra/application/modules/site/views/words.php:49
+msgid "Our Partner"
+msgstr "Notre Partenaire"
+
+#: /home/onexubra/application/modules/site/views/words.php:50
+msgid "Site Map"
+msgstr "Plan du Site"
+
+#: /home/onexubra/application/modules/site/views/words.php:51
+msgid "Store"
+msgstr "Boutique"
+
+#: /home/onexubra/application/modules/site/views/words.php:52
+msgid "FAQ"
+msgstr "FAQ"
+
+#: /home/onexubra/application/modules/site/views/words.php:53
+msgid "Support"
+msgstr "Assistance"
+
+#: /home/onexubra/application/modules/site/views/words.php:54
+msgid "Search"
+msgstr "Recherche"
+
+#: /home/onexubra/application/modules/site/views/words.php:55
+msgid "Contact Us"
+msgstr "Contactez Nous"
+
+#: /home/onexubra/application/modules/site/views/words.php:56
+msgid "Account"
+msgstr "Compte"
+
+#: /home/onexubra/application/modules/site/views/words.php:57
+msgid "Profile"
+msgstr "Profil"
+
+#: /home/onexubra/application/modules/site/views/words.php:58
+msgid "Manage Account"
+msgstr "Gérer le compte"
+
+#: /home/onexubra/application/modules/site/views/words.php:59
+msgid "Account Setting"
+msgstr "Paramétres du Compte"
+
+#: /home/onexubra/application/modules/site/views/words.php:60
+msgid "Security and Privacy"
+msgstr "Sécurité et confidentialité"
+
+#: /home/onexubra/application/modules/site/views/words.php:61
+msgid "Contact Support"
+msgstr "Contactez l'assistance"
+
+#: /home/onexubra/application/modules/site/views/words.php:62
+msgid "Donwload"
+msgstr "Télécharger"
+
+#: /home/onexubra/application/modules/site/views/words.php:63
+msgid "Help"
+msgstr "Aide"
+
+#: /home/onexubra/application/modules/site/views/words.php:64
+msgid "Cart"
+msgstr "Panier"
+
+#: /home/onexubra/application/modules/site/views/words.php:65
+msgid "View Cart"
+msgstr "Voir Panier"
+
+#: /home/onexubra/application/modules/site/views/words.php:66
+msgid "View All"
+msgstr "Tout Voir"
+
+#: /home/onexubra/application/modules/site/views/words.php:67
+msgid "View"
+msgstr "Voir"
+
+#: /home/onexubra/application/modules/site/views/words.php:68
+msgid "Add"
+msgstr "Ajouter"
+
+#: /home/onexubra/application/modules/site/views/words.php:69
+msgid "Add to Cart"
+msgstr "Ajouter au Panier"
+
+#: /home/onexubra/application/modules/site/views/words.php:70
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /home/onexubra/application/modules/site/views/words.php:71
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: /home/onexubra/application/modules/site/views/words.php:72
+msgid "Terms of Use"
+msgstr "Conditions d'utilisation"
+
+#: /home/onexubra/application/modules/site/views/words.php:73
+msgid "Terms and Conditions"
+msgstr "Termes et Conditions"
+
+#: /home/onexubra/application/modules/site/views/words.php:74
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+#: /home/onexubra/application/modules/site/views/words.php:75
+msgid "Questions"
+msgstr "Questions"
+
+#: /home/onexubra/application/modules/site/views/words.php:76
+msgid "Ask a Question"
+msgstr "Poser une Question"
+
+#: /home/onexubra/application/modules/site/views/words.php:77
+msgid "Go Back"
+msgstr "Retour"
+
+#: /home/onexubra/application/modules/site/views/words.php:78
+msgid "Back Top"
+msgstr "Retour en Haut"
+
+#: /home/onexubra/application/modules/site/views/words.php:80
+msgid "Next"
+msgstr "Suivant"
+
+#: /home/onexubra/application/modules/site/views/words.php:81
+msgid "Previous"
+msgstr "Précédent"
+
+#: /home/onexubra/application/modules/site/views/words.php:82
+msgid "Next Page"
+msgstr "Page Suivante"
+
+#: /home/onexubra/application/modules/site/views/words.php:83
+msgid "Previous Page"
+msgstr "Page Précédente"
+
+#: /home/onexubra/application/modules/site/views/words.php:84
+msgid "I have read and understand all"
+msgstr "J'ai lu et compris toutes les"
+
+#: /home/onexubra/application/modules/site/views/words.php:85
+msgid "Price"
+msgstr "Prix"
+
+#: /home/onexubra/application/modules/site/views/words.php:86
+msgid "Fee"
+msgstr "Frais"
+
+#: /home/onexubra/application/modules/site/views/words.php:87
+msgid "Fees"
+msgstr "Honoraires"
+
+#: /home/onexubra/application/modules/site/views/words.php:88
+msgid "Taxe"
+msgstr "Taxe"
+
+#: /home/onexubra/application/modules/site/views/words.php:89
+msgid "Taxes"
+msgstr "Taxes"
+
+#: /home/onexubra/application/modules/site/views/words.php:90
+msgid "Quantity"
+msgstr "Quantité"
+
+#: /home/onexubra/application/modules/site/views/words.php:91
+msgid "Color"
+msgstr "Couleur"
+
+#: /home/onexubra/application/modules/site/views/words.php:92
+msgid "Empty"
+msgstr "Vide"
+
+#: /home/onexubra/application/modules/site/views/words.php:93
+msgid "Select All"
+msgstr "Tout Sélectioner"
+
+#: /home/onexubra/application/modules/site/views/words.php:94
+msgid "Find Us On"
+msgstr "Retrouvez-nous sur"
+
+#: /home/onexubra/application/modules/site/views/words.php:95
+msgid "Available"
+msgstr "Disponible"
+
+#: /home/onexubra/application/modules/site/views/words.php:96
+msgid "Unavailable"
+msgstr "Indisponible"
+
+#: /home/onexubra/application/modules/site/views/words.php:97
+msgid "Enable"
+msgstr "Activer"
+
+#: /home/onexubra/application/modules/site/views/words.php:98
+msgid "Disable"
+msgstr "Désactiver"
+
+#: /home/onexubra/application/modules/site/views/words.php:99
+msgid "Edit"
+msgstr "Modifier"
+
+#: /home/onexubra/application/modules/site/views/words.php:100
+msgid "Update"
+msgstr "Mettre à Jour"
+
+#: /home/onexubra/application/modules/site/views/words.php:101
+msgid "Delete"
+msgstr "Supprimer"
+
+#: /home/onexubra/application/modules/site/views/words.php:102
+msgid "Modify"
+msgstr "Modifier"
+
+#: /home/onexubra/application/modules/site/views/words.php:103
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: /home/onexubra/application/modules/site/views/words.php:104
+msgid "Selection"
+msgstr "Sélection"
+
+#: /home/onexubra/application/modules/site/views/words.php:105
+msgid "Validate"
+msgstr "Valider"
+
+#: /home/onexubra/application/modules/site/views/words.php:106
+msgid "Details"
+msgstr "Détails"
+
+#: /home/onexubra/application/modules/site/views/words.php:107
+msgid "No Thanks"
+msgstr "Non Merci"
+
+#: /home/onexubra/application/modules/site/views/words.php:108
+msgid "Don't show this again"
+msgstr "Ne plus afficher ce message"
+
+#: /home/onexubra/application/modules/site/views/words.php:109
+msgid "Buy"
+msgstr "Acheter"
+
+#: /home/onexubra/application/modules/site/views/words.php:110
+msgid "Order"
+msgstr "Commander"
+
+#: /home/onexubra/application/modules/site/views/words.php:111
+msgid "Total"
+msgstr "Total"
+
+#: /home/onexubra/application/modules/site/views/words.php:112
+msgid "Registration"
+msgstr "Inscription"
+
+#: /home/onexubra/application/modules/site/views/words.php:113
+msgid "Checkout"
+msgstr "Payer"
+
+#: /home/onexubra/application/modules/site/views/words.php:114
+msgid "Continue to Checkout"
+msgstr "Continuer la Commande"
+
+#: /home/onexubra/application/modules/site/views/words.php:115
+msgid "Quick Checkout"
+msgstr "Payement Rapdie"
+
+#: /home/onexubra/application/modules/site/views/words.php:116
+msgid "Products"
+msgstr "Produits"
+
+#: /home/onexubra/application/modules/site/views/words.php:117
+msgid "Category"
+msgstr "Categorie"
+
+#: /home/onexubra/application/modules/site/views/words.php:118
+msgid "Shipping"
+msgstr "Expédition"
+
+#: /home/onexubra/application/modules/site/views/words.php:119
+msgid "Free"
+msgstr "Gratuit"
+
+#: /home/onexubra/application/modules/site/views/words.php:120
+msgid "Categories"
+msgstr "Catégories"
+
+#: /home/onexubra/application/modules/site/views/words.php:121
+msgid "From"
+msgstr "De"
+
+#: /home/onexubra/application/modules/site/views/words.php:122
+msgid "To"
+msgstr "A"
+
+#: /home/onexubra/application/modules/site/views/words.php:123
+msgid "Date"
+msgstr "Date"
+
+#: /home/onexubra/application/modules/site/views/words.php:124
+msgid "More"
+msgstr "Plus"
+
+#: /home/onexubra/application/modules/site/views/words.php:125
+msgid "Read More"
+msgstr "En Savoir Plus"
+
+#: /home/onexubra/application/modules/site/views/words.php:126
+msgid "Learn More"
+msgstr "En Savoir Plus"
+
+#: /home/onexubra/application/modules/site/views/words.php:127
+msgid "Year"
+msgstr "Année"
+
+#: /home/onexubra/application/modules/site/views/words.php:128
+msgid "Month"
+msgstr "Mois"
+
+#: /home/onexubra/application/modules/site/views/words.php:129
+msgid "Day"
+msgstr "Jour"
+
+#: /home/onexubra/application/modules/site/views/words.php:130
+msgid "Hour"
+msgstr "Heure"
+
+#: /home/onexubra/application/modules/site/views/words.php:131
+msgid "Minute"
+msgstr "Minute"
+
+#: /home/onexubra/application/modules/site/views/words.php:132
+msgid "Second"
+msgstr "Seconde"
+
+#: /home/onexubra/application/modules/site/views/words.php:133
+msgid "Hours"
+msgstr "Heures"
+
+#: /home/onexubra/application/modules/site/views/words.php:134
+msgid "Minutes"
+msgstr "Minutes"
+
+#: /home/onexubra/application/modules/site/views/words.php:135
+msgid "Seconds"
+msgstr "Secondes"
+
+#: /home/onexubra/application/modules/site/views/words.php:136
+msgid "January"
+msgstr "Janvier"
+
+#: /home/onexubra/application/modules/site/views/words.php:137
+msgid "February"
+msgstr "Février"
+
+#: /home/onexubra/application/modules/site/views/words.php:138
+msgid "March"
+msgstr "Mars"
+
+#: /home/onexubra/application/modules/site/views/words.php:139
+msgid "April"
+msgstr "Avril"
+
+#: /home/onexubra/application/modules/site/views/words.php:140
+msgid "May"
+msgstr "Mai"
+
+#: /home/onexubra/application/modules/site/views/words.php:141
+msgid "June"
+msgstr "Juin"
+
+#: /home/onexubra/application/modules/site/views/words.php:142
+msgid "July"
+msgstr "Juillet"
+
+#: /home/onexubra/application/modules/site/views/words.php:143
+msgid "August"
+msgstr "Août"
+
+#: /home/onexubra/application/modules/site/views/words.php:144
+msgid "September"
+msgstr "Septembre"
+
+#: /home/onexubra/application/modules/site/views/words.php:145
+msgid "October"
+msgstr "Octobre"
+
+#: /home/onexubra/application/modules/site/views/words.php:146
+msgid "November"
+msgstr "Novembre"
+
+#: /home/onexubra/application/modules/site/views/words.php:147
+msgid "December"
+msgstr "Décembre"
+
+#: /home/onexubra/application/modules/site/views/words.php:148
+msgid "Monday"
+msgstr "Lundi"
+
+#: /home/onexubra/application/modules/site/views/words.php:149
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: /home/onexubra/application/modules/site/views/words.php:150
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: /home/onexubra/application/modules/site/views/words.php:151
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: /home/onexubra/application/modules/site/views/words.php:152
+msgid "Friday"
+msgstr "Vendredi"
+
+#: /home/onexubra/application/modules/site/views/words.php:153
+msgid "Saturday"
+msgstr "Samedi"
+
+#: /home/onexubra/application/modules/site/views/words.php:154
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: /home/onexubra/application/modules/site/views/words.php:155
+msgid "Currency"
+msgstr "Devise"
+
+#: /home/onexubra/application/modules/site/views/words.php:160
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: /home/onexubra/application/modules/site/views/words.php:161
+msgid "Tomorow"
+msgstr "Demain"
