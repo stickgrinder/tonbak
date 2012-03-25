@@ -19,6 +19,7 @@ class CI_Locale
 		
 		$CI =& get_instance();
 		$CI->load->library('form_validation');
+		$CI->load->library('session');
 		$CI->form_validation->set_rules('lang_select', 'lang_select', 'exact_length[2]');
 		$this->lang_default = 'en';
 		
